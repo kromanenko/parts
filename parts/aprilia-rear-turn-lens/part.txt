@@ -1,0 +1,6 @@
+Replacement of part AP8224258 for Aprilia Pegaso 650 i.e. 
+Should be printed from transparent polycarbonate filament.
+Model may be updated soon after printing and fitting on my Pegaso.
+Possibly will fit on other Italian motorbikes and scooters where part AP8224258 is applied.
+Model done in AutoCAD 2016 and picture rendered in SolidWorks 2016 PhotoView 360.
+STL for 3d-printing included.
