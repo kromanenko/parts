@@ -1,0 +1,4 @@
+This Bushing for Aprilia Pegaso 650 clutch lever AP8118432 is very simple part. 
+It's needed to replace worn bushing by 3d-printed one without purchasing whole new lever.
+Iside hole diameter is set to 6,2mm because of 3d printing tolerance inaccuracy (fixing it with round rasp on picture).
+STL for 3d-printing included.
