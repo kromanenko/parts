@@ -1,0 +1,6 @@
+Stock headlight adjustment in Aprilia Pegaso 650 i.e. requires the spanner 
+(8 mm) and much luck to catch and turn bolt head several times under fairing.
+Set this cap on bolt and adjust headlight manually without spanner.
+This part better to print with longitudinal direction of layers.
+Possible matherials: ABS, Plastan etc.
+STL file for 3d-printing included.
