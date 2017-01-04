@@ -1,0 +1,6 @@
+Raises your handlebar by 22 mm. 
+Fits other motorcycles with 22 mm (7/8") handlebar and 32 mm hole seperation.
+Also attached photo of 3d-printed maquette.
+This part should be produced of aluminium alloy on milling machine.
+You will need 4 Hex socket screws M8x55 to install.
+Also attached traditional 2D drawing because some manufacturers prefer them.
